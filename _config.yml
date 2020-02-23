@@ -20,9 +20,9 @@ text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate"
 highlight_theme: tomorrow-night-eighties # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : https://lyldev.github.io/
 baseurl : # does not include hostname
-title   : 武人东征，不遑朝矣
+title   : 渐渐之石
 description: > # this means to ignore newlines until "Language & timezone"
-  渐渐之石，维其高矣。山川悠远，维其劳矣。
+  渐渐之石，维其高矣。山川悠远，维其劳矣。武人东征，不皇朝矣
 
 
 ## => Language and Timezone
