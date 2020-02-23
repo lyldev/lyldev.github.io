@@ -1,3 +1,18 @@
+sidebar:
+  - title:      Start
+    children:
+      - title:  Quick Start
+        url:    /docs/en/quick-start
+      - title:  Structure
+        url:    /archive.html
+  - title:      Customization
+    children:
+      - title:  Configuration
+        url:    /docs/en/configuration
+      - title:  Navigation
+        url:    /about.html
+
+
 header:
   - titles:
       # @start locale config
