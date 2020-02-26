@@ -22,7 +22,7 @@ url     : https://lyldev.github.io/
 baseurl : # does not include hostname
 title   : 渐渐之石
 description: > # this means to ignore newlines until "Language & timezone"
-  渐渐之石，维其高矣。山川悠远，维其劳矣。武人东征，不皇朝矣
+  Repetition doesn’t spoil the prayer. —— Eric Schmidt
 
 
 ## => Language and Timezone
@@ -38,7 +38,7 @@ author:
   name      : lyl
   url       :
   avatar    : # path or url of avatar image (square)
-  bio       : Wow, I am an amazing person.
+  bio       : Wow, an amazing person.
   email     : lyl_dev@outlook.com
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
