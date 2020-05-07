@@ -1,6 +1,7 @@
 ---
 title: 使用 Eigen 库对矩阵（Matrix）进行中心化
 tags: C++ Eigen 矩阵
+key: a2020-05-05-eigen-matrix-centralization
 layout: article
 aside:
   toc: true
