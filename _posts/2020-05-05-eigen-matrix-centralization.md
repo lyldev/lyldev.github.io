@@ -5,6 +5,7 @@ key: a2020-05-05-eigen-matrix-centralization
 layout: article
 aside:
   toc: true
+show_edit_on_github: false
 # sidebar:
 #   nav: sidebar
 ---
