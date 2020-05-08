@@ -200,6 +200,7 @@ exclude:
   - /screenshots
   - /test
   - /vendor
+  - .jekyll-cache # new in jekyll 4.0
 
 defaults:
   - scope:
