@@ -22,8 +22,11 @@ chart: true
 具体到 Eigen 中的矩阵操作就是 首先求矩阵中各列的平均值得到一个 `3*1` 的列向量，然后将原矩阵中的每一列都减去上一步得到的平均值列向量，得到中心化的矩阵。
 
 最后具体到代码实现如下：
-```cpp
+
+{% highlight cpp %}
 Eigen::Matrix3Xd centered_p = P.colwise() - P.rowwise().mean();
-```
+{% endhighlight %}
+
 ## _注意_：
 求矩阵中所有列向量的平均值用的是 `rowwise().mean()` ，这个初看起来好像不太对，求列向量的平均值为什么是 按行（`rowwise`） 求平均值呢？其实利用 `1*N` 的矩阵更好理解，求这 N 个 `1*1` 列向量的平均就是对整行（`rowwise`）元素求平均值。
+
