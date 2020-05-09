@@ -20,7 +20,7 @@ text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate"
 highlight_theme: tomorrow-night-bright # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : https://lyldev.top/
 baseurl : # does not include hostname
-title   : 渐渐之石
+title   : DENSER-CODING
 description: > # this means to ignore newlines until "Language & timezone"
   Repetition doesn’t spoil the prayer. —— Eric Schmidt
 
@@ -212,7 +212,7 @@ defaults:
       license: true
       aside:
         toc: true
-      show_edit_on_github: true
+      show_edit_on_github: false
       show_subscribe: true
       pageview: true
 
