@@ -13,7 +13,7 @@ chart: true
 # sidebar:
 #   nav: sidebar
 ---
-![Windows Terminal 配置结果]({site.url}/_illustrations/2020-06-01_213803-windows_terminal_final_result.png)
+![Windows Terminal 配置结果](/_illustrations/2020-06-01_213803-windows_terminal_final_result.jpg)
 
 “众所周知” `Windows` 系统终端，包括 `命令行` 和 `PowerShell` 一直饱受开发者诟病，微软正在努力改变这种状况，本文介绍到的 `PowerShell Core` 和 `Windows Terminal` 就是微软这一努力的两大结果。经过一定的配置之后，`Windows Terminal` 无论从易用性和观感上都足以令人满意。 
 
@@ -41,7 +41,7 @@ Set-Theme Paradox
 
 运行后，你会发现 `PowerShell Core` 的主题已经改变，如下图所示：
 
-![PowerShell Core 主题设置结果]({site.url}/_illustrations/2020-06-01_213803-powershell_core_set_theme_result.png)
+![PowerShell Core 主题设置结果](/_illustrations/2020-06-01_213803-powershell_core_set_theme_result.jpg)
 
 但是这样运行命令只能保证本次使用是这个主题，下一次打开时又需要重新运行。为了避免这样的重复操作，我们需要创建配置文件，这样我们每次打开都会是这个主题了。首先找到文件夹：  
 `C:\Users\你的用户名\Documents\PowerShell\`  
